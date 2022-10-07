@@ -9,9 +9,10 @@
 
 `uvicorn main:app --reload`
 
-# Run tests
+# Tests
 
 `pip install pytest`
+
 `pytest`
 
 ## Swagger UI
