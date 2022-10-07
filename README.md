@@ -7,7 +7,7 @@
 
 ## Run development
 
-`uvicorn main:app --reload`
+`uvicorn main:app --reload` application will be running on http://127.0.0.1:8000
 
 # Tests
 
@@ -17,4 +17,4 @@
 
 ## Swagger UI
 
-`http://127.0.0.1:8000/docs#/`
+http://127.0.0.1:8000/docs#/
