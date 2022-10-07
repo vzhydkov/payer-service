@@ -13,7 +13,7 @@
 
 `pip install pytest`
 
-`pytest`
+`pytest -v`
 
 ## Swagger UI
 
